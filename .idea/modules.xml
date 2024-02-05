@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algs4.iml" filepath="$PROJECT_DIR$/algs4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseball elimination/baseball elimination.iml" filepath="$PROJECT_DIR$/baseball elimination/baseball elimination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boggle/boggle.iml" filepath="$PROJECT_DIR$/boggle/boggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burrows-wheeler/burrows-wheeler.iml" filepath="$PROJECT_DIR$/burrows-wheeler/burrows-wheeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collinear points/collinear points.iml" filepath="$PROJECT_DIR$/collinear points/collinear points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kd-trees/kd-trees.iml" filepath="$PROJECT_DIR$/kd-trees/kd-trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seam carving/seam carving.iml" filepath="$PROJECT_DIR$/seam carving/seam carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slider puzzle/slider puzzle.iml" filepath="$PROJECT_DIR$/slider puzzle/slider puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordnet/wordnet.iml" filepath="$PROJECT_DIR$/wordnet/wordnet.iml" />
+    </modules>
+  </component>
+</project>
