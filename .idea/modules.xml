@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algs4 assignments.iml" filepath="$PROJECT_DIR$/algs4 assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algs4.iml" filepath="$PROJECT_DIR$/algs4.iml" />
       <module fileurl="file://$PROJECT_DIR$/baseball elimination/baseball elimination.iml" filepath="$PROJECT_DIR$/baseball elimination/baseball elimination.iml" />
       <module fileurl="file://$PROJECT_DIR$/boggle/boggle.iml" filepath="$PROJECT_DIR$/boggle/boggle.iml" />
       <module fileurl="file://$PROJECT_DIR$/burrows-wheeler/burrows-wheeler.iml" filepath="$PROJECT_DIR$/burrows-wheeler/burrows-wheeler.iml" />
